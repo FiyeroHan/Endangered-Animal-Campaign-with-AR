@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "arMiddleProject.sln"
+    "dotnet.defaultSolution": "Endangered-Animal-Campaign-with-AR.sln"
 }
